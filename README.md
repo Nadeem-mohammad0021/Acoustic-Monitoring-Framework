@@ -418,8 +418,6 @@ This project was developed as a **B.Tech Project Stage-II** in **Computer Scienc
 ### 👨‍🏫 Project Guidance
 - **Internal Guide:** **Dr. P. Kamaraja Pandian**, Associate Professor, Dept. of CSE (Data Science)
 - **Head of Department:** **Mr. B. Ramesh**, Associate Professor & HOD, Dept. of CSE (Data Science)
-- **Principal:** **Dr. S. Sreenath Kashyap**, KPRIT
-
 ---
 
 ## 📜 References & Literature
